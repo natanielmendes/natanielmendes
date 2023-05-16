@@ -3,7 +3,7 @@
 __Devops Architect | Senior Software Engineer | Blockchain Enthusiast__
 
 <a href= "https://natanielmendes.com/">
-  <img src="https://img.shields.io/badge/-Target-33a641?style=flat&logo=Target&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-nataniel.me-33a641?style=flat&logo=Target&logoColor=white"/>
 </a>
 <a href= "https://www.linkedin.com/in/natanielcarvalho/?locale=en_US">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>

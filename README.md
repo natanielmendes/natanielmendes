@@ -63,7 +63,7 @@ The term DevOps holds immense value to me as it reflects my expertise in both de
   <img width="500" height="500" src="./images/debugging.jpeg" />
 </p>
 
-**refl3ction/refl3ction** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**natanielmendes/natanielmendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

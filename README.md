@@ -50,8 +50,8 @@ The term DevOps holds immense value to me as it reflects my expertise in both de
 <center>
 <table>
     <tr>
-        <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanielmendes&langs_count=7&layout=default&theme=vue" /></td>
-        <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=natanielmendes&count_private=true&show_icons=true&include_all_commits=true&theme=vue"/></td>
+        <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanielmendes&langs_count=7&theme=buefy" /></td>
+        <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=natanielmendes&count_private=true&show_icons=true&include_all_commits=true&theme=buefy"/></td>
     </tr>   
 </table>
 </center>  

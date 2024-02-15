@@ -36,7 +36,7 @@ The term DevOps holds immense value to me as it reflects my expertise in both de
 - __Infra as Code__ - Terraform, CloudFormation, Ansible
 - __Programming__ - JavaScript/TypeScript (Node.js, React, Angular), Golang, Python, Bash
 - __Observability__ - New Relic, DataDog
-- __Blockchain enthusiast__ - Celo/Ethereum Smart Contracts
+- __Blockchain__ - Celo and Ethereum (Solidity) Smart Contracts
 
 ## 🥇 Certifications
 
